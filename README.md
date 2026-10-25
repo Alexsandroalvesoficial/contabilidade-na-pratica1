@@ -65,7 +65,7 @@ Os arquivos serão adicionados conforme forem gerados e revisados.
 
 ## 🔗 NotebookLM
 
-**Link do notebook compartilhado:** [Adicionar o link compartilhável aqui]
+**Link do notebook compartilhado:** [](https://notebook.google.com/notebook/16879226-8615-49f4-85d4-e520c5fe10f8)]
 
 ## 📈 Aprendizados
 
